@@ -1,5 +1,5 @@
 body {
-  background-color: #999;
+  background-color: #CCC;
   color: #333;
   font-size: 18px;
   font-family: tahoma,sans-serif;
@@ -22,7 +22,7 @@ header {
 }
 
 aside {
-  background: #777;
+  background: #999;
   width: 170px;
   height: 380px;
   margin-bottom: 30px;
@@ -76,7 +76,7 @@ ul li {
 }
 
 .why-jamk {
-  background: #777;
+  background: #999;
   margin-top: 0px;
   margin-bottom: 30px;
   padding: 20px;
@@ -130,7 +130,7 @@ ul li {
 }
 
 .motivation {
-  background: #777;
+  background: #999;
   margin-top: 0px;
   margin-bottom: 30px;
   padding: 20px;
